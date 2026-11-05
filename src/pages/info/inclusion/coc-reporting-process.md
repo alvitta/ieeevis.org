@@ -18,15 +18,15 @@ The above diagram details the flow of action when a complaint or violation of th
 
 **Confidant:** Any individual related to the conference organization who receives a report of inappropriate behavior. Ombuds are specifically designated for this role, however complainants may feel more comfortable with other members in the organization.
 
-**Response Team:** Members of the organizational team who are activated to respond quickly and discreetly with the incident. The team may include a small subset who handle immediate responses and a larger group to address future responses and institutional memory. The team should consist of the ombuds, IEEE CS Representative, IEEE Event Emergency Response Team, and a _VEC-appointed contact (VAC)_ who may be a member of the ombuds team.
+**Response Team:** Members of the organizational team who are activated to respond quickly and discreetly with the incident. The team may include a small subset who handle immediate responses and a larger group to address future responses and institutional memory. The team should consist of the ombuds, IEEE CS Representative, IEEE Event Emergency Response Team, and a _VSC-appointed contact (VAC)_ who may be a member of the ombuds team.
 
 **Local Authorities:** This group changes year-to-year and their contact information will be provided to the response team before the start of the conference.
 
 ## Role of Confidant / Ombudsperson
 
-**As a confidant, your primary duty is to provide a safe and supportive space for reporters to bring forward experiences to a conference representative.** When necessary, and **in agreement with the reporter**, you will also alert a member of the response team. Members of the organizing committee, in particular, the general chair(s), Inclusivity and Diversity Chairs, and VEC members should be prepared to receive complaints and act in the confidant role. Reporters may feel more comfortable speaking directly with a member of the senior leadership of the conference.
+**As a confidant, your primary duty is to provide a safe and supportive space for reporters to bring forward experiences to a conference representative.** When necessary, and **in agreement with the reporter**, you will also alert a member of the response team. Members of the organizing committee, in particular, the general chair(s), Inclusivity and Diversity Chairs, and VSC members should be prepared to receive complaints and act in the confidant role. Reporters may feel more comfortable speaking directly with a member of the senior leadership of the conference.
 
-The Ombuds people will be identified as representatives of the VIS organizing committee to receive incident reports and act as a liaison between conference attendees and the VEC/IEEE. The ombuds role does not include taking corrective action or making determinations about harassment reports, but rather to be an impartial, friendly, and safe person to speak to as issues arise, and to inform of, and appropriately handle next steps.
+The Ombuds people will be identified as representatives of the VIS organizing committee to receive incident reports and act as a liaison between conference attendees and the VSC/IEEE. The ombuds role does not include taking corrective action or making determinations about harassment reports, but rather to be an impartial, friendly, and safe person to speak to as issues arise, and to inform of, and appropriately handle next steps.
 
 Confidants should follow the **ACT model** when approached about a potential incident:
 
@@ -84,7 +84,7 @@ In addition to any required follow-up by Local Authorities, incident responses m
 
 ## Appointment and Rotation
 
-VEC receives nominations from the current Ombuds team, including a brief nomination paragraph or verbal explanation at the VEC meeting, highlighting why the candidate is appropriate for the role. Nominees may hold other roles within the Organizing Committee, VSC, or VEC, but this is not a prerequisite. VEC makes the final appointments, drawing from the proposed pool of nominees, but may include others in order to achieve appropriate team balance. **Appointments should be guided to maximize the diversity of the current Ombuds team.** The ombuds group puts forward candidates annually during the normal organizing committee renewal process.
+VSC receives nominations from the current Ombuds team, including a brief nomination paragraph or verbal explanation at the VSC meeting, highlighting why the candidate is appropriate for the role. Nominees may hold other roles within the Organizing Committee, VSC, or VSC, but this is not a prerequisite. VSC makes the final appointments, drawing from the proposed pool of nominees, but may include others in order to achieve appropriate team balance. **Appointments should be guided to maximize the diversity of the current Ombuds team.** The ombuds group puts forward candidates annually during the normal organizing committee renewal process.
 
 3-year rotation terms, 6 people, 2 off per year. The changeover happens immediately after the conference.
 
@@ -92,16 +92,18 @@ VEC receives nominations from the current Ombuds team, including a brief nominat
 
 ### VIS 2026 Ombuds
 
-- Gautam Chaudhary, _Zenith Solutions_
-- Mennatallah El-Assady, _ETH AI Center_
-- Josh Levine, _University of Arizona_
-- Lace Padilla, _Northeastern University_
+- Holger Theisel, _University of Magdeburg_
+- Miriah Meyer, _Linköping University_
+- Emily Wall, _Emory University_
+- Alvitta Ottley, _Washington University in St. Louis_
+- Anastasia Bezerianos, _Université Paris-Saclay_
+- Jiawan Zhang, _Tianjin University_
 
 ## Meetings
 
 - Pre-conference check-in (Ombuds team)
 - During the conference (as needed by an incident)
-- Post-conference debrief (Ombuds team + VEC representative)
+- Post-conference debrief (Ombuds team + VSC representative)
 
 ## Contact
 
